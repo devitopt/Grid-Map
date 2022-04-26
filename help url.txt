@@ -1,0 +1,5 @@
+pk.eyJ1IjoiZmFrZXVzZXJnaXRodWIiLCJhIjoiY2pwOGlneGI4MDNnaDN1c2J0eW5zb2ZiNyJ9.mALv0tCpbYUPtzT7YysA2g
+
+https://stackoverflow.com/questions/68248845/how-to-select-and-highlight-a-cell-from-a-square-grid-using-turfjs-and-mapbox-js
+https://docs.mapbox.com/mapbox-gl-js/api/map/#map.event:zoomend
+https://app.nextearth.io/buy-land
